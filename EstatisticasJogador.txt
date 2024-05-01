@@ -1,0 +1,6 @@
+public class EstatisticasJogador extends Jogador{
+    private float KDA;
+    private float MMR;
+    private String patente;
+    private float hs;
+}
